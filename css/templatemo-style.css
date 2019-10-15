@@ -411,6 +411,51 @@ a:hover, a:active, a:focus {
 
 
 
+
+/*---------------------------------------
+   Certifications section              
+-----------------------------------------*/
+
+#certifications .machine-img {
+    background: url('../images/machine.jpg') no-repeat;
+}
+
+#certifications .deep-img {
+    background: url('../images/deep.jpg') no-repeat;
+}
+#certifications .python-img {
+    background: url('../images/python.jpg') no-repeat;
+}
+#certifications .pimrc-img {
+    background: url('../images/pimrc.jpg') no-repeat;
+}
+
+#certifications .certifications-thumb,
+#certifications .skill-thumb {
+  padding: 22px 32px 32px 32px;
+}
+
+#certifications .progress {
+  background: #ffffff;
+  border-radius: 0px;
+  box-shadow: none;
+  height: 2px;
+}
+
+#certifications .progress-bar-primary {
+  background: #232B2B;
+}
+
+#certifications strong,
+#certifications span {
+  font-weight: bold;
+  display: inline-block;
+  padding-bottom: 8px;
+}
+
+
+
+
 /*---------------------------------------
     Service section              
 -----------------------------------------*/
@@ -439,8 +484,11 @@ a:hover, a:active, a:focus {
     Experience section              
 -----------------------------------------*/
 
+
+
+
 #experience .experience-img {
-  background: url('../images/experience-img1.jpg') no-repeat;
+  background: url('../images/experience-img1.jpg')  50% 0 repeat-y fixed;
 }
 
 #experience .media-heading {
