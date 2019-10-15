@@ -123,6 +123,7 @@ p {
 #home .container,
 #about .container, 
 #experience .container,
+#certifications .container,
 #service .container,
 #education .container,
 #contact .container {
@@ -721,6 +722,7 @@ footer {
   #home .container,
   #about .container, 
   #experience .container,
+  #certifications .container,
   #service .container,
   #education .container,
   #contact .container {
