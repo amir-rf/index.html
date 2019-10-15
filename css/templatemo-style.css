@@ -420,6 +420,7 @@ a:hover, a:active, a:focus {
 #certifications .machine-img {
     background: url('../images/machine.jpg') no-repeat;
 	 background-size: contain;
+	color: #E9724C;
   background-position: 0% 50%;
   width: 100%;
   height: 50vh;
@@ -428,6 +429,7 @@ a:hover, a:active, a:focus {
 #certifications .deep-img {
     background: url('../images/deep.jpg') no-repeat;
 	 background-size: contain;
+	color: #E9724C;
   background-position: 25% 50%;
   width: 100%;
   height: 50vh;
@@ -435,6 +437,7 @@ a:hover, a:active, a:focus {
 #certifications .python-img {
     background: url('../images/python.jpg') no-repeat;
 	 background-size: contain;
+	color: #E9724C;
   background-position: 50% 50%;
   width: 100%;
   height: 50vh;
@@ -442,6 +445,7 @@ a:hover, a:active, a:focus {
 #certifications .pimrc-img {
     background: url('../images/pimrc.jpg') no-repeat;
 	 background-size: contain;
+	color: #E9724C;
   background-position: 75% 50%;
   width: 100%;
   height: 50vh;
