@@ -514,7 +514,7 @@ a:hover, a:active, a:focus {
 }
 
 #education .education-img {
-  background: url('../images/education-img.jpg') no-repeat;
+  background: url('../images/education-img.jpg') 50% 0 repeat-y fixed;
    background-size: contain;
 }
 
