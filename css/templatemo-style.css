@@ -272,7 +272,9 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-    Navigation section              
+    Navigation section          
+
+letter-spacing: 1px;
 -----------------------------------------*/
 
 .custom-navbar {
@@ -286,14 +288,14 @@ a:hover, a:active, a:focus {
     font-weight: bold;
     font-size: 16px;
     line-height: 35px;
-    letter-spacing: 1px;
+    letter-spacing: normal;
 }
 
 .custom-navbar .nav li a {
     color: #666;
     font-size: 12px;
     font-weight: 400;
-    letter-spacing: 1px;
+    letter-spacing: normal;
     text-transform: uppercase;
     line-height: 40px;
     transition: all 0.4s ease-in-out;
