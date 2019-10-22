@@ -492,6 +492,10 @@ letter-spacing: 1px;
 
 #experience .experience-img {
   background: url('../images/experience-img1.jpg')  no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 100%;
+  height: 100vh;
 
 }
 
