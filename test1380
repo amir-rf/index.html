@@ -1,0 +1,312 @@
+<html lang="en" class="fontawesome-i2svg-active fontawesome-i2svg-complete"><head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="author" content="Amir Hossein Fahim Raouf">
+        <title>Amir Hossein Fahim Raouf</title>
+        <style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.3333333333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-both,:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.svg-inline--fa .fa-primary{fill:var(--fa-primary-color,currentColor);opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa .fa-secondary{fill:var(--fa-secondary-color,currentColor);opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-primary{opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-secondary{opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa mask .fa-primary,.svg-inline--fa mask .fa-secondary{fill:#000}.fad.fa-inverse{color:#fff}</style><link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
+        <!-- Font Awesome icons (free version)-->
+        <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css">
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet">
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <span class="d-block d-lg-none">Amir RF</span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="images/amirrf.jpg" alt=""></span>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger active" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#publications">مقالات</a></li>
+                 <!--   <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Hobies and Interests</a></li> -->
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards and Honors</a></li>
+                </ul>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <!-- About-->
+            <section class="resume-section" id="about">
+                <div class="resume-section-content">
+                    <h2 class="mb-0">
+                        Amir Hossein Fahim Raouf
+                        <span class="text-primary"> (Amir RF)</span>
+                    </h2>
+                    <div class="subheading mb-5">
+                        Ozyegin University · Istanbul · Turkey · 
+                        <a href="">amirh[dot]fraouf[at]gmail[dot]com</a>
+                    </div>
+                    <p class="lead mb-5">I have always differentiated between the process and results of studying. As I see it, I am a passenger on a journey who wants to go further from all borders. In my way, I tried new medias, unusual subjects and different attitudes toward fulfilling my curiosity of learning. But I know I should go further; as the first rule of experiencing new and having more is leaving your comfort zone.</p>
+                    <div class="social-icons">
+                        <a class="social-icon" href="https://www.linkedin.com/in/amirrf/" target="_blank"><svg class="svg-inline--fa fa-linkedin-in fa-w-14" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin-in" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg><!-- <i class="fab fa-linkedin-in"></i> --></a>
+                        <a class="social-icon" href="https://scholar.google.com.tr/citations?hl=en&amp;user=aSdNHA8AAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank"><svg class="svg-inline--fa fa-google fa-w-16" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="google" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 512" data-fa-i2svg=""><path fill="currentColor" d="M488 261.8C488 403.3 391.1 504 248 504 110.8 504 0 393.2 0 256S110.8 8 248 8c66.8 0 123 24.5 166.3 64.9l-67.5 64.9C258.5 52.6 94.3 116.6 94.3 256c0 86.5 69.1 156.6 153.7 156.6 98.2 0 135-70.4 140.8-106.9H248v-85.3h236.1c2.3 12.7 3.9 24.9 3.9 41.4z"></path></svg><!-- <i class="fab fa-google"></i> --></a>
+                        <a class="social-icon" href="https://www.researchgate.net/profile/Amir_Hossein_Fahim_Raouf" target="_blank"><svg class="svg-inline--fa fa-graduation-cap fa-w-20" aria-hidden="true" focusable="false" data-prefix="fa" data-icon="graduation-cap" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M622.34 153.2L343.4 67.5c-15.2-4.67-31.6-4.67-46.79 0L17.66 153.2c-23.54 7.23-23.54 38.36 0 45.59l48.63 14.94c-10.67 13.19-17.23 29.28-17.88 46.9C38.78 266.15 32 276.11 32 288c0 10.78 5.68 19.85 13.86 25.65L20.33 428.53C18.11 438.52 25.71 448 35.94 448h56.11c10.24 0 17.84-9.48 15.62-19.47L82.14 313.65C90.32 307.85 96 298.78 96 288c0-11.57-6.47-21.25-15.66-26.87.76-15.02 8.44-28.3 20.69-36.72L296.6 284.5c9.06 2.78 26.44 6.25 46.79 0l278.95-85.7c23.55-7.24 23.55-38.36 0-45.6zM352.79 315.09c-28.53 8.76-52.84 3.92-65.59 0l-145.02-44.55L128 384c0 35.35 85.96 64 192 64s192-28.65 192-64l-14.18-113.47-145.03 44.56z"></path></svg><!-- <i class="fa fa-graduation-cap"></i> --></a>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0">
+            
+            <!-- Education-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Education</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Ozyegin University, Istanbul, Turkey</h3>
+                            <div class="subheading mb-3">M.Sc.</div>
+                            <div>Electrical Engineering - Quantum Key Distribution</div>
+                           <!-- <p>GPA: 3.23</p> -->
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">January 2018 - Present</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Yazd University, Yazd, Iran</h3>
+                            <div class="subheading mb-3">M.Sc.</div>
+                            <div>Electrical Engineering - Caching</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">September 2013 - October 2016</span></div>
+                    </div>
+					<div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Isfahan University of Technology, Isfahan, Iran</h3>
+                            <div class="subheading mb-3">B.Sc.</div>
+                            <div>Electrical Engineering - Communication</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">September 2008 - September 2012</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0">
+            <!-- Skills-->
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Skills</h2>
+                    
+                                        
+					<p class="color-white">I'd like to participated in programming contests. Coding is a challenging hobby for me.</p>
+					<div class=" wow fadeInUp skills-thumb" data-wow-delay="1.6s"> <!-- 1 -->
+					<div class="subheading mb-3">Programming Skills</div>
+                        <strong>Python</strong>
+                              <span class="color-white pull-right">80%</span>
+                                   <div class="progress">
+                                        <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div>
+                                   </div>
+
+                        <strong>Matlab</strong>
+                              <span class="color-white pull-right">80%</span>
+                                   <div class="progress">
+                                        <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div>
+                                   </div>
+						<strong>Java</strong>
+                              <span class="color-white pull-right">70%</span>
+                                   <div class="progress">
+                                        <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
+                                   </div>
+
+                        <strong>C++</strong>
+                              <span class="color-white pull-right">60%</span>
+                                   <div class="progress">
+                                        <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div>
+                                   </div>
+                    </div>
+					<br>
+					<br>
+					<p class="color-white">تست فارسی نویسی</p>
+					
+					<div class="subheading mb-3">Online courses</div>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><svg class="svg-inline--fa fa-check fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg><!-- <i class="fas fa-check"></i> --></span>
+                            <a href="http://ude.my/UC-b6905586-b3c2-4b56-9e33-81a492dcda06" target="_blank">Machine Learning A-Z: Become Kaggle Master</a> by Geekshub Pvt Ltd on Udemy, June, 2020
+                        </li>
+                        <li>
+                            <span class="fa-li"><svg class="svg-inline--fa fa-check fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg><!-- <i class="fas fa-check"></i> --></span>
+                            <a href="https://courses.edx.org/certificates/2318db16198d4586ac2f8cb92c8d0720" target="_blank">Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet by Delft University
+of Technology</a> by Delft University of Technology on Edx, June, 2020
+                        </li>
+                        <li>
+                            <span class="fa-li"><svg class="svg-inline--fa fa-check fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg><!-- <i class="fas fa-check"></i> --></span>
+                            <a href="https://www.coursera.org/account/accomplishments/specialization/HNF3Y2X75MFM" target="_blank">Python 3 Programming</a> by University of Michigan on Coursera, October, 2019
+                        </li>
+                        <li>
+                            <span class="fa-li"><svg class="svg-inline--fa fa-check fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg><!-- <i class="fas fa-check"></i> --></span>
+                            <a href="https://www.coursera.org/account/accomplishments/specialization/FEBDEZAER5CR" target="_blank">Deep Learning</a> by deeplearning.ai on Coursera, September, 2019
+                        </li>
+						<li>
+                            <span class="fa-li"><svg class="svg-inline--fa fa-check fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg><!-- <i class="fas fa-check"></i> --></span>
+                            <a href="https://www.coursera.org/account/accomplishments/verify/JBKXQXMX5635" target="_blank">Machine Learning</a> by Stanford University on Coursera, August, 2019.
+                        </li>
+                    </ul>
+				</div>
+            </section>
+            <hr class="m-0">
+			<!-- Experience-->
+            <section class="resume-section" id="experience">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Academic, Research, and Teaching Experiences</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Research Assistant at <a href="http://labs.ozyegin.edu.tr/ctt/" target="_blank">CT &amp; T </a> </h3>
+                            <div class="subheading mb-3">Ozyegin University, Istanbul, Turkey</div>
+                            
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">2018 - Present</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h5 class="mb-0">Teaching Assistant, Linear Algebra</h5>
+                            <div class="subheading mb-3">Ozyegin University, Istanbul, Turkey</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Fall 2019, Summer 2019, Spring 2020</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h5 class="mb-0">Teaching Assistant, Calculus for Engineering</h5>
+                            <div class="subheading mb-3">Ozyegin University, Istanbul, Turkey</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Fall 2018, Spring 2019</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Research Assistant at <a href="http://winel.yazd.ac.ir/" target="_blank">WiNeL </a> </h3>
+                            <div class="subheading mb-3">Yazd University, Yazd, Iran</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">2013 - 2018</span></div>
+                    </div>
+					<div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h5 class="mb-0">Teaching Assistant, Engineering Mathematics</h5>
+                            <div class="subheading mb-3">Yazd University, Yazd, Iran</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Spring 2015</span></div>
+                    </div>
+					<div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h5 class="mb-0">Teaching Assistant, Electric Circuits II</h5>
+                            <div class="subheading mb-3">Yazd University, Yazd, Iran</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Fall 2014</span></div>
+                    </div>
+					<div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h5 class="mb-0">Teaching Assistant, Electric Circuits I</h5>
+                            <div class="subheading mb-3">Yazd University, Yazd, Iran</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Spring 2014</span></div>
+                    </div>
+					<div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h5 class="mb-0">Teaching Assistant, Linear Control Systems</h5>
+                            <div class="subheading mb-3"> Isfahan University of Technology, Isfahan, Iran</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">fall 2010</span></div>
+                    </div>
+					<p>
+					The duties associated with these teaching assistant have included solving problems and student homework assignments and elaborating on the solution for pupils in the class, checking and marking their homework, and consultation with students. My exact duties were given by the instructor to whom I was responsible. </p>
+                </div>
+            </section>
+            <hr class="m-0">
+			<!-- Skills-->
+            <section class="resume-section" id="publications">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Publications</h2>
+                    <div class="subheading mb-3">Jounal Papers</div> <p>
+			[J5] <b>A. H. F. Raouf</b>, M. Safari, and M. Uysal, “Monte-Carlo-based Channel Characterization for Underwater Quantum Key Distribution,” (Under Prepration)
+					<br>
+			[J4] <b>A. H. F. Raouf</b>, M. Safari, and M. Uysal, “Multi-Hop Quantum Key Distribution with Passive Relays over Underwater Turbulence Channels,” (Under review)
+					<br>
+			[J3] <b>A. H. F. Raouf</b>, J. Abouei, M. Jaseemuddin, and M. Uysal, “Luby Transform Coding for Cache-based Wireless Networks,” Physical Communication, vol. 42, October 2020.  <a href="https://www.sciencedirect.com/science/article/pii/S1874490720302494" target="_blank">(Link)</a>
+					<br>
+			[J2] <b>A. H. F. Raouf</b>, M. Safari, and M. Uysal, “Performance Analysis of Quantum Key Distribution in Underwater Turbulence Channels,” JOSA B, vol. 37, no. 2, pp.564-573, 2020. <a href="https://www.osapublishing.org/josab/abstract.cfm?uri=josab-37-2-564" target="_blank">(Link)</a>
+					<br>
+			[J1] Z. H. Meybodi, J. Abouei, and <b>A. H. F. Raouf</b>, “Cache Replacement Schemes based on Adaptive Time Window for Video on Demand Services in Femtocell Networks,” IEEE Transactions on Mobile Computing, vol. 18, no. 7, pp. 1476–1487, 2018. <a href="https://ieeexplore.ieee.org/abstract/document/8428489" target="_blank">(Link)</a>
+					<br>
+					</p>                 
+					
+					<br>
+					<br>
+					<div class="subheading mb-3">Conference Papers</div> 
+					<p>
+						[C3] <b>A. H. F. Raouf</b>, M. Safari, and M. Uysal, “Multi-Hop Quantum Key Distribution with Passive Relays over Underwater Turbulence Channels,” (Accepted. To be presented on <a href="https://csndsp2020.av.it.pt/" target="_blank">IEEE/IET International Symposium on Communication Systems, Networks and Digital Signal Processing (CSNDSP))</a>
+					<br>
+						[C2] J. Pourbemany, G. Mirjalily, J. Abouei, and <b>A. H. F. Raouf</b>, “Load Balanced Ad-Hoc On-Demand Routing Based on Weighted Mean Queue Length Metric,” in Proc. Iranian Conf. Elect. Eng., Mashhad, 2018, pp. 470-475. <a href="https://ieeexplore.ieee.org/abstract/document/8472705" target="_blank">(Link)</a>
+					<br>
+						[C1] <b>A. H. F. Raouf</b>, and J. Abouei, “Cache Replacement Scheme Based on Sliding Window and TTL for Video on Demand,” in Proc. Iranian Conf. Elect. Eng., Mashhad, 2018, pp. 499-504. <a href="https://ieeexplore.ieee.org/abstract/document/8472723" target="_blank">(Link)</a>
+					</p>
+				</div>
+            </section>
+            <hr class="m-0">
+            <!-- Interests
+            <section class="resume-section" id="interests">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Awards and Honors</h2>
+                    <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
+                    <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
+                </div>
+            </section>
+            <hr class="m-0" /> -->
+            <!-- Awards-->
+            <section class="resume-section" id="awards">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Awards &amp; Honors</h2>
+                    <ul class="fa-ul mb-0">
+					<div class="d-flex flex-column flex-md-row justify-content-between mb-0">
+                        <div class="flex-grow-1">
+                            <div class="subheading mb-3">TUBITAK scholarship, The Scientific and Technological Research Council of Turkey, Turkey</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">2018 - Present</span></div>
+						
+                    </div>
+					<div class="d-flex flex-column flex-md-row justify-content-between mb-0">
+                        <div class="flex-grow-1">
+                            <div class="subheading mb-3">Ozyegin Fellowship, Ozyegin University, Istanbul, Turkey</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">2018 - Present</span></div>
+                    </div>
+					<div class="d-flex flex-column flex-md-row justify-content-between mb-0">
+                        <div class="flex-grow-1">
+                            <div class="subheading mb-3">Ranked 756th in IEEEXtreme (Python)</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">2019</span></div>
+                    </div>
+					<div class="d-flex flex-column flex-md-row justify-content-between mb-0">
+                        <div class="flex-grow-1">
+                            <div class="subheading mb-3">Selected in Google Code Jam Qualification Round (Java)</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">2017 and 2018</span></div>
+                    </div>
+					<div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <div class="subheading mb-3">Among Top 0.2% Students out of 320,000 Participants in the National Universities Entrance
+Exam (Konkoor), Iran</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">2008</span></div>
+                    </div>
+                        
+                    </ul>
+                </div>
+            </section>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+        <!-- Third party plugin JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+	
+       
+    
+
+</body></html>
